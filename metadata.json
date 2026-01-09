@@ -1,0 +1,8 @@
+{
+  "name": "Charlie AI OS",
+  "description": "Charlie - An advanced voice-controlled AI system assistant capable of managing applications, generating reports, coding, and system control.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
